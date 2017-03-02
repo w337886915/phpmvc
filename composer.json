@@ -1,0 +1,13 @@
+{
+    "name": "w337886915/phpmvc",
+    "description": "composer项目练习",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "authors": [
+        {
+            "name": "w337886915",
+            "email": "wangheng19851019@126.com"
+        }
+    ]
+}

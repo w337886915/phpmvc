@@ -1,13 +1,15 @@
 {
     "name": "w337886915/phpmvc",
-    "description": "composer项目练习",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
+    "description": "this is a easy php frame",
+    "type": "project",
+    "license": "MIT",
     "authors": [
         {
-            "name": "w337886915",
-            "email": "wangheng19851019@126.com"
+            "name": "wang heng",
+            "email": "337886915@qq.com"
         }
-    ]
+    ],
+    "require": {
+        "w337886915/phprbac": "^1.0"
+    }
 }
